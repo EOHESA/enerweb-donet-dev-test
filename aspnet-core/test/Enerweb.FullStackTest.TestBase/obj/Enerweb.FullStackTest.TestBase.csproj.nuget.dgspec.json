@@ -1,0 +1,367 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\test\\Enerweb.FullStackTest.TestBase\\Enerweb.FullStackTest.TestBase.csproj": {}
+  },
+  "projects": {
+    "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain.Shared\\Enerweb.FullStackTest.Domain.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain.Shared\\Enerweb.FullStackTest.Domain.Shared.csproj",
+        "projectName": "Enerweb.FullStackTest.Domain.Shared",
+        "projectPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain.Shared\\Enerweb.FullStackTest.Domain.Shared.csproj",
+        "packagesPath": "C:\\Users\\Todi Mugivhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Todi Mugivhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io/d71dec67-a9dd-4c30-a55c-2a4fccd907db/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "Microsoft.Extensions.FileProviders.Embedded": {
+              "target": "Package",
+              "version": "[5.0.*, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Volo.Abp.AuditLogging.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.BlobStoring.Database.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.Commercial.SuiteTemplates": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.GlobalFeatures": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.Identity.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.IdentityServer.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.LanguageManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.LeptonTheme.Management.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.TextTemplateManagement.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Saas.Domain.Shared": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain\\Enerweb.FullStackTest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain\\Enerweb.FullStackTest.Domain.csproj",
+        "projectName": "Enerweb.FullStackTest.Domain",
+        "projectPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain\\Enerweb.FullStackTest.Domain.csproj",
+        "packagesPath": "C:\\Users\\Todi Mugivhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Todi Mugivhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io/d71dec67-a9dd-4c30-a55c-2a4fccd907db/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain.Shared\\Enerweb.FullStackTest.Domain.Shared.csproj": {
+                "projectPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain.Shared\\Enerweb.FullStackTest.Domain.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Volo.Abp.AuditLogging.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.BackgroundJobs.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.BlobStoring.Database.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.Emailing": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.FeatureManagement.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.Identity.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.IdentityServer.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.LanguageManagement.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.LeptonTheme.Management.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.Identity": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.PermissionManagement.Domain.IdentityServer": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.SettingManagement.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.TextTemplateManagement.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Saas.Domain": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\test\\Enerweb.FullStackTest.TestBase\\Enerweb.FullStackTest.TestBase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\test\\Enerweb.FullStackTest.TestBase\\Enerweb.FullStackTest.TestBase.csproj",
+        "projectName": "Enerweb.FullStackTest.TestBase",
+        "projectPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\test\\Enerweb.FullStackTest.TestBase\\Enerweb.FullStackTest.TestBase.csproj",
+        "packagesPath": "C:\\Users\\Todi Mugivhi\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\test\\Enerweb.FullStackTest.TestBase\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\NuGet.Config",
+          "C:\\Users\\Todi Mugivhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.abp.io/d71dec67-a9dd-4c30-a55c-2a4fccd907db/v3/index.json": {},
+          "https://www.myget.org/F/blazorise/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain\\Enerweb.FullStackTest.Domain.csproj": {
+                "projectPath": "C:\\Git\\Repos\\FullStackTest\\aspnet-core\\src\\Enerweb.FullStackTest.Domain\\Enerweb.FullStackTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.6.1, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            },
+            "Shouldly": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "Volo.Abp.Authorization": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.Autofac": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "Volo.Abp.TestBase": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

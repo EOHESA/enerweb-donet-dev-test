@@ -1,0 +1,15 @@
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.deps.json
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\bin\Debug\net5.0\ref\Enerweb.FullStackTest.Domain.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.pdb
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.Shared.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.Shared.pdb
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.csprojAssemblyReference.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.AssemblyInfoInputs.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.AssemblyInfo.cs
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.csproj.CoreCompileInputs.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.csproj.CopyComplete
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\ref\Enerweb.FullStackTest.Domain.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain\obj\Debug\net5.0\Enerweb.FullStackTest.Domain.pdb

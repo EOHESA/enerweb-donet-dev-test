@@ -1,0 +1,17 @@
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.deps.json
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\ref\Enerweb.FullStackTest.EntityFrameworkCore.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.pdb
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.Shared.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.pdb
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\bin\Debug\net5.0\Enerweb.FullStackTest.Domain.Shared.pdb
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.csprojAssemblyReference.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.AssemblyInfo.cs
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.csproj.CopyComplete
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\ref\Enerweb.FullStackTest.EntityFrameworkCore.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.EntityFrameworkCore\obj\Debug\net5.0\Enerweb.FullStackTest.EntityFrameworkCore.pdb

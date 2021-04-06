@@ -1,0 +1,10 @@
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\bin\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.deps.json
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\bin\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\bin\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.pdb
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.csprojAssemblyReference.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.EmbeddedFilesManifest.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.AssemblyInfoInputs.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.AssemblyInfo.cs
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.csproj.CoreCompileInputs.cache
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.dll
+C:\Git\Repos\FullStackTest\aspnet-core\src\Enerweb.FullStackTest.Domain.Shared\obj\Debug\netstandard2.0\Enerweb.FullStackTest.Domain.Shared.pdb
